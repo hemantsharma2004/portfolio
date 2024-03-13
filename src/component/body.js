@@ -40,7 +40,7 @@ const Body=()=>{
 
 
                  <div className="w-[450px] ">
-                   <img className="h-[450px] rounded-xl" src="https://c4.wallpaperflare.com/wallpaper/75/749/194/portrait-scarf-actor-black-background-wallpaper-preview.jpg" alt="boy" ></img>
+                   <img className="h-[450px] text-white rounded-xl" src="https://c4.wallpaperflare.com/wallpaper/75/749/194/portrait-scarf-actor-black-background-wallpaper-preview.jpg" alt="boy" ></img>
                  </div>
             
          </div>
