@@ -12,7 +12,7 @@ import React from "react";
 
 const Body=()=>{
      return(
-         <div name="home" className="flex justify-evenly w-full h-screen bg-gradient-to-b from-black via-black to-gray-800 items-center  px-20">
+         <div name="house" className="flex justify-evenly w-full h-screen bg-gradient-to-b from-black via-black to-gray-800 items-center  px-20">
 
             <div className="w-6/12" >
                <h1 className="text-5xl text-white pb-6 font-extrabold ">I'm a<Typewriter
@@ -40,7 +40,7 @@ const Body=()=>{
 
 
                  <div className="w-[450px] ">
-                   <img className="h-[450px] text-white rounded-xl" src="https://c4.wallpaperflare.com/wallpaper/75/749/194/portrait-scarf-actor-black-background-wallpaper-preview.jpg" alt="boy" ></img>
+                   <img className="h-[450px] text-white rounded-xl" src="https://drive.google.com/file/d/1OvudCyS2nB9apX4Kd6bH9lM4JbZPIJTe/view?usp=drivesdk" alt="boy" ></img>
                  </div>
             
          </div>
